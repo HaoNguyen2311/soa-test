@@ -25,7 +25,7 @@ const DiscoverCard = ({ className }: BlockItemProps) => {
       <p className="text-[#562C2CCC] font-normal text-sm md:text-lg line-clamp-2 mt-2 md:mt-4">
         Chaque sentier vous conduit à des panoramas époustouflants, chaque
         instant devient une aventure, chaque rencontre vous promet un so uvenir
-        marquant. Avec MITIK, le tourisme d'aventure allie nature brute et
+        marquant. Avec MITIK, le tourisme d&apos;aventure allie nature brute et
         confort raffiné à toutes les saisons. Randonnée, canoë, observation de
         la faune, rencontres culturelles, exploration en montagne, chaque
         escapade est une immersion inoubliable dans les grands espaces
