@@ -8,7 +8,7 @@ const ExploreCookMaster = () => {
     <div className="px-4 md:px-8 lg:px-0">
       <div className="flex items-center justify-center md:justify-between max-w-[1240px] mx-auto">
         <p className="text-textCore font-semibold text-2xl md:text-[40px] lg:text-5xl text-center md:text-left">
-          Explorez d’avantage avec BASIC
+          Explorez d'avantage avec BASIC
         </p>
         <Link href="" className="items-center gap-2 hidden md:flex">
           En savoir plus <Image src={ArrowIcon} alt="Arrow Icon" />

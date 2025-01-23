@@ -46,7 +46,7 @@ const Carousel = () => {
           <p className="text-[#562C2CCC] font-normal lg:text-lg line-clamp-3 ml-4 md:text-lg text-sm">
             Chaque sentier vous conduit à des panoramas époustouflants, chaque
             instant devient une aventure, chaque rencontre vous promet un so
-            uvenir marquant. Avec MITIK, le tourisme d’aventure allie nature
+            uvenir marquant. Avec MITIK, le tourisme d'aventure allie nature
             brute et confort raffiné à toutes les saisons. Randonnée, canoë,
             observation de la faune, rencontres culturelles, exploration en
             montagne, chaque escapade est une immersion inoubliable dans les
@@ -66,7 +66,7 @@ const Carousel = () => {
           <p className="text-[#562C2CCC] font-normal lg:text-lg line-clamp-3 ml-4 md:text-lg text-sm">
             Chaque sentier vous conduit à des panoramas époustouflants, chaque
             instant devient une aventure, chaque rencontre vous promet un so
-            uvenir marquant. Avec MITIK, le tourisme d’aventure allie nature
+            uvenir marquant. Avec MITIK, le tourisme d'aventure allie nature
             brute et confort raffiné à toutes les saisons. Randonnée, canoë,
             observation de la faune, rencontres culturelles, exploration en
             montagne, chaque escapade est une immersion inoubliable dans les
@@ -86,7 +86,7 @@ const Carousel = () => {
           <p className="text-[#562C2CCC] font-normal lg:text-lg line-clamp-3 ml-4 md:text-lg text-sm">
             Chaque sentier vous conduit à des panoramas époustouflants, chaque
             instant devient une aventure, chaque rencontre vous promet un so
-            uvenir marquant. Avec MITIK, le tourisme d’aventure allie nature
+            uvenir marquant. Avec MITIK, le tourisme d'aventure allie nature
             brute et confort raffiné à toutes les saisons. Randonnée, canoë,
             observation de la faune, rencontres culturelles, exploration en
             montagne, chaque escapade est une immersion inoubliable dans les
@@ -106,7 +106,7 @@ const Carousel = () => {
           <p className="text-[#562C2CCC] font-normal lg:text-lg line-clamp-3 ml-4 md:text-lg text-sm">
             Chaque sentier vous conduit à des panoramas époustouflants, chaque
             instant devient une aventure, chaque rencontre vous promet un so
-            uvenir marquant. Avec MITIK, le tourisme d’aventure allie nature
+            uvenir marquant. Avec MITIK, le tourisme d'aventure allie nature
             brute et confort raffiné à toutes les saisons. Randonnée, canoë,
             observation de la faune, rencontres culturelles, exploration en
             montagne, chaque escapade est une immersion inoubliable dans les
