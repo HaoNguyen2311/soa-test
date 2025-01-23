@@ -1,0 +1,12 @@
+.quill{
+  @apply rounded;
+
+  .ql-toolbar{
+    @apply rounded-t-md;
+  }
+  .ql-container{
+    @apply rounded-b-md;
+  }
+}
+
+
